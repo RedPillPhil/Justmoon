@@ -89,7 +89,7 @@
             contract_address: 'TR583q28VUhGAJwuMqqHokXVeyhgnRgcXe',
             token_address: 'TM6CMJX6NECzc3ee9mtY5UDP4FKnezaTzu',
             root_address: 'TJhC9EDncYzP78KAneE9LEpCTan3GJNTuR',
-            null_address: 'TJhC9EDncYzP78KAneE9LEpCTan3GJNTuR',
+            null_address: 'T9yD14Nj9j7xAB4dbGeiX9h8unkKHxuWwb',
             upline: '',
             contract: {
                 startsale: 0,
