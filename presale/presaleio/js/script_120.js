@@ -86,10 +86,10 @@
         el: '#App',
         data: {
             tab: 'main',
-            contract_address: 'TWHdqN8gxXxkUeEAvKQwUrLkbiTFhFR1Ku',
-            token_address: 'TYrtfghuDzuVy9dux67bMbpe2STPh97GDr',
-            root_address: 'TKJnEYM119B4CMqAdU485jXpDkjvnVU4JT',
-            null_address: 'T9yD14Nj9j7xAB4dbGeiX9h8unkKHxuWwb',
+            contract_address: 'TR583q28VUhGAJwuMqqHokXVeyhgnRgcXe',
+            token_address: 'TM6CMJX6NECzc3ee9mtY5UDP4FKnezaTzu',
+            root_address: 'TJhC9EDncYzP78KAneE9LEpCTan3GJNTuR',
+            null_address: 'TJhC9EDncYzP78KAneE9LEpCTan3GJNTuR',
             upline: '',
             contract: {
                 startsale: 0,
