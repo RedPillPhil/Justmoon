@@ -165,9 +165,9 @@ ol {
     top: 0;
     left: 0;
     background: #e50000;
-    background: -webkit-linear-gradient(to right, #e50000, #341f97);
-    background: -webkit-linear-gradient(left, #e50000, #341f97);
-    background: linear-gradient(to right, #e50000, #341f97);
+    background: -webkit-linear-gradient(to right, #e50000, #000000);
+    background: -webkit-linear-gradient(left, #e50000, #000000);
+    background: linear-gradient(to right, #e50000, #000000);
 }
 
 .preload-content {
