@@ -72,9 +72,9 @@
 body {
     font-family: 'Poppins', sans-serif;
     background: #e50000;
-    background: -webkit-linear-gradient(to right, #e50000, #341f97);
-    background: -webkit-linear-gradient(left, #e50000, #341f97);
-    background: linear-gradient(to right, #e50000, #341f97);
+    background: -webkit-linear-gradient(to right, #e50000, #000000);
+    background: -webkit-linear-gradient(left, #e50000, #000000);
+    background: linear-gradient(to right, #e50000, #000000);
 }
 .darker-blue{
     background: linear-gradient(180deg,#660000 0,#990000 25%,#b20000 40%,#990000 65%,#990000);
@@ -540,10 +540,10 @@ ol {
 }
 
 .bg-overlay:after {
-    background: rgba(72, 52, 212, 0.95);
-    background: -webkit-linear-gradient(to right, rgba(72, 52, 212, 0.95), rgba(52, 31, 151, 0.95));
-    background: -webkit-linear-gradient(left, rgba(72, 52, 212, 0.95), rgba(52, 31, 151, 0.95));
-    background: linear-gradient(to right, rgba(72, 52, 212, 0.95), rgba(52, 31, 151, 0.95));
+    background: rgba(0, 0, 0, 0.95);
+    background: -webkit-linear-gradient(to right, rgba(0, 0, 0, 0.95), rgba(0, 0, 0, 0.95));
+    background: -webkit-linear-gradient(left, rgba(0, 0, 0, 0.95), rgba(0, 0, 0, 0.95));
+    background: linear-gradient(to right, rgba(0, 0, 0, 0.95), rgba(0, 0, 0, 0.95));
     position: absolute;
     content: "";
     height: 100%;
@@ -693,7 +693,7 @@ ol {
 .header-area.sticky {
     -webkit-transition-duration: 500ms;
     transition-duration: 500ms;
-    background-color: #281b87;
+    background-color: #000000;
     box-shadow: 0 3px 15px rgba(0, 0, 0, 0.1);
     border-bottom: none;
 }
@@ -737,7 +737,7 @@ ol {
     z-index: 10;
 }
 .hero-content.globe{
-    background: linear-gradient(to right, rgba(72, 52, 212, 0.95), rgba(52, 31, 151, 0.75));
+    background: linear-gradient(to right, rgba(0, 0, 0, 0.95), rgba(0, 0, 0, 0.75));
 }
 .hero-content.transparent{
     background: transparent;
