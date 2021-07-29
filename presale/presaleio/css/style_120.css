@@ -72,9 +72,9 @@
 body {
     font-family: 'Poppins', sans-serif;
     background: #e50000;
-    background: -webkit-linear-gradient(to right, #4834d4, #341f97);
-    background: -webkit-linear-gradient(left, #4834d4, #341f97);
-    background: linear-gradient(to right, #4834d4, #341f97);
+    background: -webkit-linear-gradient(to right, #e50000, #341f97);
+    background: -webkit-linear-gradient(left, #e50000, #341f97);
+    background: linear-gradient(to right, #e50000, #341f97);
 }
 .darker-blue{
     background: linear-gradient(180deg,#240044 0,#0f0240 25%,#400959 40%,#0f0240 65%,#0f0240);
@@ -164,10 +164,10 @@ ol {
     z-index: 99999;
     top: 0;
     left: 0;
-    background: #4834d4;
-    background: -webkit-linear-gradient(to right, #4834d4, #341f97);
-    background: -webkit-linear-gradient(left, #4834d4, #341f97);
-    background: linear-gradient(to right, #4834d4, #341f97);
+    background: #e50000;
+    background: -webkit-linear-gradient(to right, #e50000, #341f97);
+    background: -webkit-linear-gradient(left, #e50000, #341f97);
+    background: linear-gradient(to right, #e50000, #341f97);
 }
 
 .preload-content {
@@ -1013,11 +1013,11 @@ p.artficial:before{
     -webkit-transform: translate(-50%, -50%);
     transform: translate(-50%, -50%);
     z-index: 10;
-    color: #4834d4;
+    color: #e50000;
 }
 
 .video-btn {
-    background-color: #4834d4;
+    background-color: #e50000;
     width: 70px;
     height: 70px;
     color: #fff;
@@ -1030,7 +1030,7 @@ p.artficial:before{
 }
 
 .video-btn:hover {
-    background-color: #4834d4;
+    background-color: #e50000;
     color: #fff;
 }
 
@@ -3340,7 +3340,7 @@ textarea:required {
 .current-progress .progress-bar{
     border-radius: 7px;
     height: 100%;
-    background: linear-gradient(to right, #4834d4, #341f97)
+    background: linear-gradient(to right, #e50000, #341f97)
 }
 .ico-progress span {
     color: #370779;
