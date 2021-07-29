@@ -1074,7 +1074,7 @@ p.artficial:before{
 }
 @media (max-width: 767px) {
   .fullscreen-bg {
-    background: url('video/video-frame.PNG/') center center / cover no-repeat;
+    background: url('') center center / cover no-repeat;
   }
    .welcome_area.video .desc{
         max-width: 80%;
