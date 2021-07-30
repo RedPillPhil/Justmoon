@@ -86,9 +86,9 @@
         el: '#App',
         data: {
             tab: 'main',
-            contract_address: 'TR583q28VUhGAJwuMqqHokXVeyhgnRgcXe',
-            token_address: 'TM6CMJX6NECzc3ee9mtY5UDP4FKnezaTzu',
-            root_address: 'TWkRYYsjTQhY5aXcg8uhmJKkz2TbfYjoox',
+            contract_address: 'TT72dMrbZLDjd8rmzZGpK8TUoeKQcWRHeA',
+            token_address: 'TYrtfghuDzuVy9dux67bMbpe2STPh97GDr',
+            root_address: 'TKJnEYM119B4CMqAdU485jXpDkjvnVU4JT',
             null_address: 'T9yD14Nj9j7xAB4dbGeiX9h8unkKHxuWwb',
             upline: '',
             contract: {
@@ -109,7 +109,7 @@
                 airdropcycle: 0
             },
             rates: {},
-            mintoken: 10000000000,
+            mintoken: 70,
             upmodal: {
                 show: false,
                 upline: document.querySelector('meta[name="upline"]').content,
@@ -137,7 +137,7 @@
             */
             this.contract.currentprice = parseFloat(document.querySelector('meta[name="currentprice"]').content);
             this.contract.totalbuyers = parseFloat(document.querySelector('meta[name="totalusers"]').content)+this.countf();
-            this.contract.totalpurchases = parseFloat(document.querySelector('meta[name="totalpurchases"]').content)/1e6+72329+this.countf()*10000000000;
+            this.contract.totalpurchases = parseFloat(document.querySelector('meta[name="totalpurchases"]').content)/1e6+72329+this.countf()*70;
 
 
             if(!document.cookie.match(/coopolice=1/)) {
@@ -335,8 +335,8 @@
             $('.simple_timer').syotimer({
                 year: 2021,
                 month: 8,
-                day: 14,
-                hour: 16,
+                day: 15,
+                hour: 0,
                 minute: 0
             })
 
@@ -425,7 +425,7 @@
                         this.contract.currentprice = parseInt(res._currentprice);
                         this.contract.salesenabled = tronWeb.fromSun(res._salesenabled).toString() == 'true';
                         this.contract.totalbuyers = parseInt(res._totalbuyers)+this.countf();
-                        this.contract.totalpurchases = parseFloat(tronWeb.fromSun(res._totalpurchases))+72329+this.countf()*10000000000;
+                        this.contract.totalpurchases = parseFloat(tronWeb.fromSun(res._totalpurchases))+72329+this.countf()*70;
                         this.contract.period = parseInt(res._period);
                         this.contract.airdropcycle = parseInt(res._airdropcycle);
                     });
@@ -450,7 +450,7 @@
             },
             purchases(upline) {
                 let auto_upline = false;
-                if(!(this.mintoken >= 10000000000)) return this.notice('The minimum amount of the token is 10000000000', 'fb8c00');
+                if(!(this.mintoken >= 70)) return this.notice('The minimum amount of the token is 70', 'fb8c00');
                 if(!this.tron.account) return this.notice('To join the project you need to use the Tron wallet.', 'fb8c00');
                 if(this.user.upline) {
                     if(upline) {

@@ -3321,15 +3321,15 @@ textarea:required {
    color: #fff
 }
 .ico-progress .current-progress {
-   width: 10%;
+   width: 100%;
    height: 16px;
-   position: static;
+   position: relative;
    background: rgba(191, 191, 191, .6);
    border-radius: 7px
 }
 .ico-progress .current-progress:before{
     content: '';
-    position: static;
+    position: absolute;
     width: 1px;
     height: 26px;
     bottom: -5px;
