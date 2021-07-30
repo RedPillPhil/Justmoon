@@ -909,7 +909,7 @@ ol {
     bottom: 10%;
     right: -15%;
     width: 40%;
-    background: #0d003b;
+    background: #000000;
     padding: 20px;
 }
 .inovation.num2{
@@ -926,7 +926,7 @@ ol {
     left: 0;
     width: 15px;
     height: 2px;
-    background: #25cbd3;
+    background: #ff9999;
 }
 .inovation p{
     font-size: 12px;
@@ -992,7 +992,7 @@ p.artficial:before{
     position: relative;
     z-index: 1;
     margin-top: 30px;
-    border: 1px solid #25cbd3;
+    border: 1px solid #ff9999;
     border-radius: 15px;
     padding: 0px 30px 0;
 }
@@ -1102,17 +1102,17 @@ p.artficial:before{
     padding: 0 0 70px
 }
 .partner-box{
-    border: 1px solid #25cbd3;
+    border: 1px solid #ff9999;
     border-radius: 10px;
     padding: 20px 10px;
     text-align: center;
     vertical-align: middle;
-    background-color: #0d003b;
+    background-color: #000000;
     margin-bottom: 30px;
     transition: all .3s ease-in-out;
 }
 .partner-box:hover{
-    background: #25cbd3;
+    background: #ff9999;
     cursor: pointer;
 }
 
@@ -1224,7 +1224,7 @@ p.artficial:before{
     border-radius: 0%
 }
 .services-block-four .inner-box .icon-box:after, .services-block-four .inner-box .icon-box:before{
-    background: #25cbd3
+    background: #ff9999
 }
 .services-block-four .inner-box .icon-box{
   position:absolute;
@@ -1307,7 +1307,7 @@ p.artficial:before{
   top:100%;
   width:1px;
   height:95%;
-  background: #25cbd3
+  background: #ff9999
 }
 
 .services-block-four:last-child .inner-box .icon-box:before{
@@ -1368,7 +1368,7 @@ p.artficial:before{
   -o-transition:all 0.3s ease;
 }
 .services-block-four .inner-box .icon-box{
-    color: #25cbd3 
+    color: #ff9999 
 }
 
 .services-block-four .inner-box h3 a:hover{
@@ -1486,7 +1486,7 @@ p.artficial:before{
     top: 50%;
     transform: translateY(-50%);
     left: -20px;
-    background: #0d003b;
+    background: #000000;
     height: 370px !important;
     margin-left: 30px;
     border-radius: 40px;
@@ -1499,7 +1499,7 @@ p.artficial:before{
     align-items: center;
     box-shadow: 0px 4px 13px 0 rgba(168,67,253,.3);
     overflow: hidden;
-    border-bottom: 3px solid #a843fd;
+    border-bottom: 3px solid #ff9999;
 }
 .vertical-social li{
     padding: 7px 0;
@@ -1539,7 +1539,7 @@ p.artficial:before{
     margin: 0 -10px;
     background-color: rgba(13,0,59,.9);
     border-radius: 5px;
-    color: #25cbd3;
+    color: #ff9999 ;
     position: relative;
 }
 .check .value {
@@ -1581,11 +1581,11 @@ p.artficial:before{
     display: flex;
 }
 .token-info .info-wrapper {
-    border: 1px solid #25cbd3;
+    border: 1px solid #ff9999;
     border-radius: 10px;
     padding: 19px 36px;
     padding-left: 65px;
-    background-color: #0d003b;
+    background-color: #000000;
     width: 100%;
     position: relative;
     -ms-flex: 1;
@@ -2067,7 +2067,7 @@ p.artficial:before{
 }
 .timeline-split .timeline h3{
     font-size: 22px;
-    color: #25cbd3
+    color: #ff9999
 }
 .timeline-split .timeline span{
     color: #666;
@@ -2084,7 +2084,7 @@ p.artficial:before{
    position: absolute;
    top: 0;
    left: 50%;
-   background: #25cbd3;
+   background: #ff9999;
    left: calc(50% - 10px);
 }
 /*vertival line */
@@ -2097,15 +2097,15 @@ p.artficial:before{
    top: 10px;
    left: 50%;
    left: calc(50% - 1px);
-   background: #25cbd3;
+   background: #ff9999;
 }
 
 /*timeline block */
 .timeline-split .timeline .block {
    width: 50%;
     padding: 30px;
-    background: #0d003b;
-    border: 1px solid #25cbd3;
+    background: #000000;
+    border: 1px solid #ff9999;
     width: calc(50% - 74px);
     text-align: left;
     position: relative;
@@ -2113,7 +2113,7 @@ p.artficial:before{
 .timeline .block .date{
     padding: 5px 10px;
     display: inline-block;
-    background: #25cbd3;
+    background: #ff9999;
     margin: 10px 0;
     color: #fff;
     font-size: 13px;
@@ -2131,7 +2131,7 @@ p.artficial:before{
    height: 10px;
    border-radius: 50%;
    position: absolute;
-   background: #25cbd3;
+   background: #ff9999;
    top: 30px;
 }
 .timeline-split .timeline .block.block-left::after,
@@ -2140,7 +2140,7 @@ p.artficial:before{
     width: 95px;
     height: 2px;
     position: absolute;
-    background: #25cbd3;
+    background: #ff9999;
     top: 34px;
     z-index: -1;
     right: -78px;
@@ -2321,9 +2321,9 @@ p.artficial:before{
 .single_cool_fact {
     position: relative;
     z-index: 1;
-    background: #0d003b;
-    border: 1px solid #25cbd3;
-    border-bottom: 3px solid #25cbd3;
+    background: #000000;
+    border: 1px solid #ff9999;
+    border-bottom: 3px solid #ff9999;
     border-radius: 0 0 20px 20px;
     padding: 30px;
     overflow: hidden;
@@ -2594,7 +2594,7 @@ p.artficial:before{
     font-size: 16px;
     z-index: 2;
     line-height: 1.25;
-    color: #25cbd3;
+    color: #ff9999;
     background: #fff;
     border: 0 solid;
     border-radius: 40px;
@@ -2611,7 +2611,7 @@ p.artficial:before{
     box-shadow: 0 3px 21px 4px rgba(41, 41, 58, 0.2);
 }
 .button:hover{
-    background: #25cbd3;
+    background: #ff9999;
     color: #fff
 }
 .button i{
@@ -3142,7 +3142,7 @@ textarea:required {
     top: 0;
     width: 1px;
     height: 100%;
-    background: #25cbd3
+    background: #ff9999
 }
 
 .timelineBody .timeline li:last-child {
@@ -3169,7 +3169,7 @@ textarea:required {
     left: 3px;
     height: 9px;
     width: 9px;
-    background: #25cbd3;
+    background: #ff9999;
     border-radius: 50%;
 }
 
@@ -3182,7 +3182,7 @@ textarea:required {
 }
 
 .timelineBody .timeline .timelineDate p {
-    color: #25cbd3;
+    color: #ff9999;
 }
 
 .timelineBody .timeline .timelineWork {
@@ -3208,7 +3208,7 @@ textarea:required {
 * ----------------------------------------------------------------------------------------
 */
 .ico-counter{
-    background-image: linear-gradient(to right, #21d397 0%, #7450fe 100%);
+    background-image: linear-gradient(to right, #ff9999  0%, #ffe5b4   100%);
     padding: 40px;
     border-radius: 20px
 }
@@ -3240,7 +3240,7 @@ textarea:required {
     height: 75px;
     line-height: 75px;
     margin: 0 auto;
-    background-color: #190345;
+    background-color: #000000;
     color: #ffffff;
 }
 .count-down .tab-metr {
@@ -3295,7 +3295,7 @@ textarea:required {
     font-size: 13px;
     font-weight: bold;
     position: absolute;
-    right: 10px;
+    right: 2px;
     top: 6px;
 }
 
@@ -3340,19 +3340,19 @@ textarea:required {
 .current-progress .progress-bar{
     border-radius: 7px;
     height: 100%;
-    background: linear-gradient(to right, #e50000, #341f97)
+    background: linear-gradient(to right, #e50000, #000000)
 }
 .ico-progress span {
-    color: #370779;
+    color: #000000;
     font-size: 12px;
     font-weight: 700;
     padding-top: 7px;
     display: inline-block;
 }
 .doc-element{
-    background-color: #1d025c;
+    background-color: #000000;
     border-radius: 4px;
-    border-bottom: 2px solid #25cbd3;
+    border-bottom: 2px solid #ff9999;
     position: relative;
     transition: .5s;
     cursor: pointer;
@@ -3402,7 +3402,7 @@ textarea:required {
     line-height: 1.35;
 }
 .doc-element:hover {
-    background-color: #25cbd3;
+    background-color: #ff9999;
 }
 .doc-element:hover:after {
     opacity: 1;

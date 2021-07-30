@@ -86,9 +86,9 @@
         el: '#App',
         data: {
             tab: 'main',
-            contract_address: 'TR583q28VUhGAJwuMqqHokXVeyhgnRgcXe',
-            token_address: 'TM6CMJX6NECzc3ee9mtY5UDP4FKnezaTzu',
-            root_address: 'TJhC9EDncYzP78KAneE9LEpCTan3GJNTuR',
+            contract_address: 'TWHdqN8gxXxkUeEAvKQwUrLkbiTFhFR1Ku',
+            token_address: 'TYrtfghuDzuVy9dux67bMbpe2STPh97GDr',
+            root_address: 'TKJnEYM119B4CMqAdU485jXpDkjvnVU4JT',
             null_address: 'T9yD14Nj9j7xAB4dbGeiX9h8unkKHxuWwb',
             upline: '',
             contract: {
@@ -141,7 +141,7 @@
 
 
             if(!document.cookie.match(/coopolice=1/)) {
-                this.notice('This website uses cookies for functionality, analytics and advertising purposes as described in our Privacy Policy. If you agree to our use of cookies, please continue to use our site.<br/><br/><a href="javascript:void()" style="color:#fff; text-decoration:none"><b>OK</b></a>', 'e04f87', 0)
+                this.notice('This website uses cookies for functionality, analytics and advertising purposes as described in our Privacy Policy. If you agree to our use of cookies, please continue to use our site.<br/><br/><a href="javascript:void()" style="color:#fff; text-decoration:none"><b>OK</b></a>', '000000', 0)
                     .then(() => { document.cookie = 'coopolice=1; Max-Age=31536000; path=/'; });
             }
 
