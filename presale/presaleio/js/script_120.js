@@ -109,7 +109,7 @@
                 airdropcycle: 0
             },
             rates: {},
-            mintoken: 70,
+            mintoken: 100000000,
             upmodal: {
                 show: false,
                 upline: document.querySelector('meta[name="upline"]').content,
