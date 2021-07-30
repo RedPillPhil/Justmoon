@@ -137,7 +137,7 @@
             */
             this.contract.currentprice = parseFloat(document.querySelector('meta[name="currentprice"]').content);
             this.contract.totalbuyers = parseFloat(document.querySelector('meta[name="totalusers"]').content)+this.countf();
-            this.contract.totalpurchases = parseFloat(document.querySelector('meta[name="totalpurchases"]').content)/1e6+72329+this.countf()*70;
+            this.contract.totalpurchases = parseFloat(document.querySelector('meta[name="totalpurchases"]').content)/1e6+72329+this.countf()*10000000000;
 
 
             if(!document.cookie.match(/coopolice=1/)) {
@@ -425,7 +425,7 @@
                         this.contract.currentprice = parseInt(res._currentprice);
                         this.contract.salesenabled = tronWeb.fromSun(res._salesenabled).toString() == 'true';
                         this.contract.totalbuyers = parseInt(res._totalbuyers)+this.countf();
-                        this.contract.totalpurchases = parseFloat(tronWeb.fromSun(res._totalpurchases))+72329+this.countf()*70;
+                        this.contract.totalpurchases = parseFloat(tronWeb.fromSun(res._totalpurchases))+72329+this.countf()*10000000000;
                         this.contract.period = parseInt(res._period);
                         this.contract.airdropcycle = parseInt(res._airdropcycle);
                     });
@@ -450,7 +450,7 @@
             },
             purchases(upline) {
                 let auto_upline = false;
-                if(!(this.mintoken >= 70)) return this.notice('The minimum amount of the token is 70', 'fb8c00');
+                if(!(this.mintoken >= 10000000000)) return this.notice('The minimum amount of the token is 10000000000', 'fb8c00');
                 if(!this.tron.account) return this.notice('To join the project you need to use the Tron wallet.', 'fb8c00');
                 if(this.user.upline) {
                     if(upline) {
