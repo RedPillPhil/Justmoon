@@ -224,7 +224,7 @@
                                     </div>
                                     <div class="text-center">
                                         <a href="#" @click.prevent="purchases()" class="button mt-30">{{ $t('message.purchase5') }}</a>
-                                        <a href="#" @click.prevent="mintoken = 70" class="button mt-30">{{ $t('message.purchase6') }}</a>
+                                        <a href="#" @click.prevent="mintoken = 100000000" class="button mt-30">{{ $t('message.purchase6') }}</a>
                                     </div>
                                     <div class="text-center">
                                         <a v-if="user.airdropcycle < contract.airdropcycle" href="#" @click.prevent="airdrop()" class="button mt-30">{{ $t('message.purchase7') }}</a>
