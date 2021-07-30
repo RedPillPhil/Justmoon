@@ -3323,13 +3323,13 @@ textarea:required {
 .ico-progress .current-progress {
    width: 10%;
    height: 16px;
-   position: absolute;
+   position: static;
    background: rgba(191, 191, 191, .6);
    border-radius: 7px
 }
 .ico-progress .current-progress:before{
     content: '';
-    position: absolute;
+    position: static;
     width: 1px;
     height: 26px;
     bottom: -5px;
