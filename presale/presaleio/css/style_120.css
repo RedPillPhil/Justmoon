@@ -3321,7 +3321,7 @@ textarea:required {
    color: #fff
 }
 .ico-progress .current-progress {
-   width: 100%;
+   width: 10%;
    height: 16px;
    position: absolute;
    background: rgba(191, 191, 191, .6);
