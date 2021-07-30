@@ -93,7 +93,7 @@
             upline: '',
             contract: {
                 startsale: 0,
-                startprice: 7,
+                startprice: 0.00000002,
                 salesenabled: true,
                 currentprice: 0,
                 totalbuyers: 0,
@@ -109,7 +109,7 @@
                 airdropcycle: 0
             },
             rates: {},
-            mintoken: 70,
+            mintoken: 10000000000,
             upmodal: {
                 show: false,
                 upline: document.querySelector('meta[name="upline"]').content,
