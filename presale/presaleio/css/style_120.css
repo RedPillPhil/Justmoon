@@ -3323,7 +3323,7 @@ textarea:required {
 .ico-progress .current-progress {
    width: 100%;
    height: 16px;
-   position: relative;
+   position: absolute;
    background: rgba(191, 191, 191, .6);
    border-radius: 7px
 }
