@@ -333,10 +333,10 @@
             }
 
             $('.simple_timer').syotimer({
-                year: 2022,
-                month: 1,
-                day: 1,
-                hour: 0,
+                year: 2021,
+                month: 8,
+                day: 14,
+                hour: 16,
                 minute: 0
             })
 
