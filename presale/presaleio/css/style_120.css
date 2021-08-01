@@ -3208,7 +3208,7 @@ textarea:required {
 * ----------------------------------------------------------------------------------------
 */
 .ico-counter{
-    background-image: linear-gradient(to right, #ff9999  0%, #ffe5b4   100%);
+    background-image: url("../img/core-img/holo.gif");
     padding: 40px;
     border-radius: 20px
 }
