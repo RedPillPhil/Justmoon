@@ -3340,7 +3340,7 @@ textarea:required {
 .current-progress .progress-bar{
     border-radius: 7px;
     height: 100%;
-    background: linear-gradient(to right, #e50000, #000000)
+    background: linear-gradient(to right, #ff9595, #000000)
 }
 .ico-progress span {
     color: #000000;
