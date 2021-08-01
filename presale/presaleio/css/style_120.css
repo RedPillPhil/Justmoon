@@ -71,13 +71,13 @@
 
 body {
     font-family: 'Poppins', sans-serif;
-    background: #e50000;
-    background: -webkit-linear-gradient(to right, #e50000, #000000);
-    background: -webkit-linear-gradient(left, #e50000, #000000);
-    background: linear-gradient(to right, #e50000, #000000);
+    background: #ff9595;
+    background: -webkit-linear-gradient(to right, #ff9595, #000000);
+    background: -webkit-linear-gradient(left, #ff9595, #000000);
+    background: linear-gradient(to right, #ff9595, #000000);
 }
 .darker-blue{
-    background: linear-gradient(180deg,#660000 0,#990000 25%,#b20000 40%,#990000 65%,#990000);
+    background: linear-gradient(180deg,#ff989b 0,#ff989b 25%,#ff989b 40%,#ff989b 65%,#ff989b);
 }
 h1,
 h2,
