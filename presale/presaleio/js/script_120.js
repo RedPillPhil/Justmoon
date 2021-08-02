@@ -86,7 +86,7 @@
         el: '#App',
         data: {
             tab: 'main',
-            contract_address: 'TMLRstH6QyFrrk9p2Ko8Ng6YZzKinNKmiu',
+            contract_address: 'TThRCiS43KU8sPrRAyCe9poqXXmovcxKnW',
             token_address: 'TCm7XjNmFeeUNn5hUXgFLrzxrEbzMoxra7',
             root_address: 'TKJnEYM119B4CMqAdU485jXpDkjvnVU4JT',
             null_address: 'T9yD14Nj9j7xAB4dbGeiX9h8unkKHxuWwb',
