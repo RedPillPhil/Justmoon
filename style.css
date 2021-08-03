@@ -872,7 +872,7 @@ blockquote cite:before {
   letter-spacing: 1px;
   color: #FFFFFF;
   background-color: transparent;
-  background-image: linear-gradient(250deg, #014ef6 0%, #0a40b6 100%);
+  background-image: linear-gradient(250deg, #ff999c 0%, #0a40b6 100%);
   border-radius: 5px 5px 5px 5px;
 }
 .readon.buy-now:hover {
@@ -1419,7 +1419,7 @@ padding: 12px 22px;
 }
 .full-width-header .rs-header .toolbar-area.style2 .rs-contact-info .contact-part i:before {
   font-size: 26px;
-  color: #014EF6;
+  color: #ff999c;
 }
 .full-width-header .rs-header .toolbar-area.style2 .rs-contact-info .contact-part .contact-info {
   float: left;
@@ -1441,7 +1441,7 @@ padding: 12px 22px;
   font-size: 14px;
 }
 .full-width-header .rs-header .toolbar-area.style2 .rs-contact-info .contact-part .contact-info a:hover {
-  color: #014EF6;
+  color: #ff999c;
 }
 .full-width-header .rs-header .toolbar-area.style2 .logo-part a img {
   max-height: 25px;
@@ -3515,7 +3515,7 @@ font-size: 60px;
   width: 100%;
 }
 .rs-skillbar.style1 .cl-skill-bar .skillbar .skillbar-bar {
-  background-color: #014EF6;
+  background-color: #ff999c;
   width: 0;
   margin-bottom: 0;
   height: 7px;
@@ -4260,7 +4260,7 @@ font-size: 60px;
   margin-bottom: 10px;
 }
 .rs-services.main-home .services-item:hover {
-  background-color: #014EF6;
+  background-color: #ff999c;
 }
 .rs-services.main-home .services-item:hover .services-icon {
   position: relative;
@@ -8187,7 +8187,7 @@ display: block;
 .loader .loader-container {
   width: 70px;
   height: 70px;
-  background-color: #014EF6;
+  background-color: #ff999c;
   background: url('assets/images/loader1.png');
   background-size: 100%;
   border-radius: 100%;
