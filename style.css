@@ -737,12 +737,12 @@ blockquote cite:before {
 .readon.started {
   padding: 14px 40px 14px 40px;
   background-color: transparent;
-  background-image: linear-gradient(90deg, #0630a6 10%, #0548b3 100%);
+  background-image: linear-gradient(90deg, #ff999c 10%, #ff999c 100%);
   border-radius: 4px 4px 4px 4px;
 }
 .readon.started:hover {
   color: #ffffff;
-  background-image: linear-gradient(90deg, #0548b3 10%, #0630a6 100%);
+  background-image: linear-gradient(90deg, #ff999c 10%, #ff999c 100%);
 }
 .readon.submit {
   background-color: transparent;
@@ -1306,7 +1306,7 @@ padding: 12px 22px;
     border-radius: 4px;
     color: #fff;
     font-weight: 600;
-    background-image: linear-gradient(90deg, #0630a6 10%, #0548b3 100%);
+    background-image: linear-gradient(90deg, #ff999c 10%, #ff999c 100%);
     transition: all 0.4s ease-in-out;
     text-transform: uppercase;
     font-size: 14px;
@@ -1779,13 +1779,13 @@ padding: 12px 22px;
   border-radius: 4px;
   color: #fff;
   font-weight: 600;
-  background-image: linear-gradient(90deg, #ff999c 10%, #ff999c 100%);
+  background-image: linear-gradient(90deg, ##ff999c 10%, ##ff999c 100%);
   transition: all 0.4s ease-in-out;
   text-transform: uppercase;
     font-size: 14px;
 }
 .full-width-header .rs-header .expand-btn-inner ul .btn-quote a:hover {
-  background-image: linear-gradient(220deg, #ff999c 0%, #ff999c 79%);
+  background-image: linear-gradient(220deg, ##ff999c 0%, ##ff999c 79%);
 }
 .full-width-header .rs-header .expand-btn-inner .search-parent {
   position: relative;
@@ -1837,7 +1837,7 @@ padding: 12px 22px;
   font-size: 16px;
   outline: none;
   border-radius: 0;
-  color: #ff999c;
+  color: ##ff999c;
 }
 .full-width-header .rs-header .expand-btn-inner .search-parent .sticky_form button i:before {
   font-size: 18px;
@@ -8524,7 +8524,7 @@ font-size: 45px;
     border-radius: 4px;
     color: #fff;
     font-weight: 600;
-    background-image: linear-gradient(90deg, #0630a6 10%, #0548b3 100%);
+    background-image: linear-gradient(90deg, #ff999c 10%, #ff999c 100%);
     transition: all 0.4s ease-in-out;
     text-transform: uppercase;
     font-size: 16px;
