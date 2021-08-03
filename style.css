@@ -2105,7 +2105,7 @@ padding: 12px 22px;
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center top;
-    background-color: #062aa2;
+    background-color: #ff999c;
 }
 .full-width-header .rs-header.style2 .menu-area.sticky .logo-area a .sticky-logo {
   display: block;
@@ -7754,7 +7754,7 @@ display: block;
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center top;
-  background-color: #062aa2;
+  background-color: #ff999c;
 }
 .rs-footer.style1 .subscribe-bg .subscribe-top {
   display: flex;
