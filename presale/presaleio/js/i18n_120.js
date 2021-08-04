@@ -14,7 +14,7 @@ const messages = {
             inserttronaddress: 'Insert Tron address',
             structure1: 'Your Partners',
             structure2: 'Income',
-            structure3: 'Structure',minimum 70 
+            structure3: 'Structure',
             structure4: 'Map',
             structure5: 'Search',
             structure6: 'Internal search (only by open structure)',
