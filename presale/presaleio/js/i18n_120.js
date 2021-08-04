@@ -14,7 +14,7 @@ const messages = {
             inserttronaddress: 'Insert Tron address',
             structure1: 'Your Partners',
             structure2: 'Income',
-            structure3: 'Structure',
+            structure3: 'Structure',minimum 100000000 
             structure4: 'Map',
             structure5: 'Search',
             structure6: 'Internal search (only by open structure)',
@@ -35,7 +35,7 @@ const messages = {
             faq7: '♦️How will the Justmoon NFT Launcher/Marketplace work, and how can I earn royalty fees on my nfts?',
             faq8: '<p>Justmoon will launch an NFT Marketplace where users can buy, and sell Tron ecosystem NFTs. The Launcher smart contract will allow users to deploy NFTs on the Tron blockchain that will require JMOON token to be used as a royalty payment to the original artist when trading</p>',
             faq9: '♦️How to participate in JMOON ico?',
-            faq10: '<p>Step1: Log in to the site via the link ( using tron wallet, tron link , klever wallet )<br>Step2: buy JMOON token ( minimum 70 token )<br>Step3: share your referral link.<br>You can refer your friends and earn in 9 referral lvl commision.</p><p>For sale:<br>500,000,000,000 tokens ( 350,000,000,000 tokens will be placed in LOCKED liquidity on justswap after presale. The rest will be reserved for project development use. )</p><p>🔸 Token price: 7trx + 0.28% every day<br>( for example: The price of each token on the first day is 7trx and on the second day, the price of each token will be 7trx + 0.28% )</p><p>🔸 referrals lvl<br>Lvl1: 34%<br>Lvl2: 17%<br>Lvl3: 10%<br>Lvl4: 10%<br>Lvl5: 10%<br>Lvl6: 5%<br>Lvl7: 5%<br>Lvl8: 5%<br>Lvl9: 4%</p><p>🔸 As the price of tokens increases, so does the referral commission</p><p>⚪️ OPEN SOURCE CONTRACT<br>⚪️ NO DEPENDENCE ON BALANCE<br>⚪️ invest in future crypto currency ( JMOON )</p>',
+            faq10: '<p>Step1: Log in to the site via the link ( using tron wallet, tron link , klever wallet )<br>Step2: buy JMOON token ( 100M token )<br>Step3: share your referral link.<br>You can refer your friends and earn in 9 referral lvl commision.</p><p>For sale:<br>500,000,000,000 tokens ( 350,000,000,000 tokens will be placed in LOCKED liquidity on justswap after presale. The rest will be reserved for project development use. )</p><p>🔸 Token price: 7trx + 0.28% every day<br>( for example: The price of each token on the first day is 7trx and on the second day, the price of each token will be 7trx + 0.28% )</p><p>🔸 referrals lvl<br>Lvl1: 34%<br>Lvl2: 17%<br>Lvl3: 10%<br>Lvl4: 10%<br>Lvl5: 10%<br>Lvl6: 5%<br>Lvl7: 5%<br>Lvl8: 5%<br>Lvl9: 4%</p><p>🔸 As the price of tokens increases, so does the referral commission</p><p>⚪️ OPEN SOURCE CONTRACT<br>⚪️ NO DEPENDENCE ON BALANCE<br></p>',
             purchase1: 'TOKEN SALE STARTS IN',
             purchase2: 'JMOON price <br> (daily increase of 0.28%)',
             purchase3: 'Min purchase',
