@@ -362,8 +362,8 @@
                         <ul class="tree">
                             <li class :id="'li_l_'+tron.account">
 								<span class="mainaccount_block">
-									<a @click.prevent="showReferrals(tron.account)" class="refs_mainaddress_a">{{ safe(tron.account) }}</a>
-									<span class="mainaccount_search_block">
+									<!--<a @click.prevent="showReferrals(tron.account)" class="refs_mainaddress_a">{{ safe(tron.account) }}</a>
+									<span class="mainaccount_search_block"> -->
 										<form onsubmit="return findAccountL()" style="display: flex;">
 											<input type="text" id="account_for_s_l" name="account_for_s" class="mainaccount_search_input" :placeholder="$t('message.inserttronaddress')">
 											<button class="mainaccount_search_button">
