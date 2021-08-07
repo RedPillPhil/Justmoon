@@ -1,8 +1,9 @@
+
+  
 /*** 
 ====================================================================
   Table of contents
 ====================================================================
-
 - Google Fonts
 - Css Imports
 - General Css Styles
@@ -25,25 +26,20 @@
 - Contact us style 
 - FAQ style -Timeline style 
 - Footer area style 
-
 ***/
 
 /*** 
-
 ====================================================================
   Google fonts
 ====================================================================
-
 ***/
 
 @import url('https://fonts.googleapis.com/css?family=Poppins:200,300,400,500,600,700');
 
 /*** 
-
 ====================================================================
   Import All Css
 ====================================================================
-
 ***/
 
 @import 'bootstrap.min.css';
@@ -58,11 +54,9 @@
 @import 'themify-icons.css';
 
 /*** 
-
 ====================================================================
   General css style
 ====================================================================
-
 ***/
 * {
     margin: 0;
@@ -1198,11 +1192,9 @@ p.artficial:before{
     color: #fff;
 }
 /*** 
-
 ====================================================================
   services-block-four style
 ====================================================================
-
 ***/
 .features{
     position: relative;
@@ -3344,7 +3336,6 @@ textarea:required {
 ====================================================================
   Table of contents
 ====================================================================
-
 - Google Fonts
 - Css Imports
 - General Css Styles
@@ -3367,25 +3358,20 @@ textarea:required {
 - Contact us style 
 - FAQ style -Timeline style 
 - Footer area style 
-
 ***/
 
 /*** 
-
 ====================================================================
   Google fonts
 ====================================================================
-
 ***/
 
 @import url('https://fonts.googleapis.com/css?family=Poppins:200,300,400,500,600,700');
 
 /*** 
-
 ====================================================================
   Import All Css
 ====================================================================
-
 ***/
 
 @import 'bootstrap.min.css';
@@ -3400,11 +3386,9 @@ textarea:required {
 @import 'themify-icons.css';
 
 /*** 
-
 ====================================================================
   General css style
 ====================================================================
-
 ***/
 * {
     margin: 0;
@@ -4540,11 +4524,9 @@ p.artficial:before{
     color: #fff;
 }
 /*** 
-
 ====================================================================
   services-block-four style
 ====================================================================
-
 ***/
 .features{
     position: relative;
@@ -7114,7 +7096,7 @@ body.light-version {
     font-size: 26px;
 }
 
-/*MODAL
+/*MODAL*/
 .i-modal { position:fixed; top:0; left:0; width:100%; height:100%; background:rgba(0,0,0,0.6); overflow:auto; z-index:9999; padding:0 10px; font:15px/1.4 Roboto, sans-serif; }
 .i-modal__wrap { position:relative; cursor:default; max-width:800px; margin:40px auto; background:#fff; border-radius:5px; }
 .i-modal__close { position:absolute; top:3px; right:3px; opacity:0.3; cursor:pointer; padding:20px; background:url(data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTQiIGhlaWdodD0iMTQiIHZpZXdCb3g9IjAgMCAxNCAxNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+Y2xvc2U8L3RpdGxlPjxnIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlPSIjMDAwIiBmaWxsPSJub25lIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiPjxwYXRoIGQ9Ik0xIDFsMTIgMTJNMTMgMUwxIDEzIi8+PC9nPjwvc3ZnPg==) center center no-repeat; z-index:20; }
@@ -7122,11 +7104,11 @@ body.light-version {
 .i-modal__body { padding:20px; }
 .i-modal__title { margin-bottom: 20px; font-size: 20px; color: #333; }
 .i-modal__text { font-size: 16px; color: #333; }
-.i-modal__text a { text-decoration: underline; } 
+.i-modal__text a { text-decoration: underline; }
 
 /*structure*/
 
-/* .refs_address_block {
+.refs_address_block {
     position: relative;
     height: 48px;
 }
@@ -7258,7 +7240,7 @@ body.light-version {
 }
 .mainaccount_search_input {
     /*position: relative;
-    display: block;
+    display: block;*/
     margin: 0 !important;
     padding: 10px 38px 10px 10px !important;
     border: 0;
@@ -7587,7 +7569,7 @@ body.light-version {
     display: block;
     width: 32px;
     height: 32px;
-    /*margin-top: 9px;
+    /*margin-top: 9px;*/
     padding-top: 9px;
     font-family: arial, sans-serif;
     z-index: 2;
@@ -7684,7 +7666,7 @@ body.light-version {
 .refs_circle_content_smallrefs_block_3 .refs_circle_content_smallref2,
 .refs_circle_content_smallrefs_block_3 .refs_circle_content_smallref3 {
     display: block;
-} */
+}
 , #000000)
 }
 .ico-progress span {
