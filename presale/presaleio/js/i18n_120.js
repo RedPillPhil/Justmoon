@@ -43,7 +43,7 @@ const messages = {
             purchase5: 'Buy Tokens',
             purchase6: 'Reset',
             purchase7: 'Airdrop',
-            /* purchase8: 'Copy Ref Url', */
+            purchase8: 'Copy Ref Url', 
             footer1: 'is an initial coin offering (ico) for Justmoon token',
             footer2: 'NAVIGATE',
             footer3: 'Home',
