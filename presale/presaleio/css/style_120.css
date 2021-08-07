@@ -7122,11 +7122,11 @@ body.light-version {
 .i-modal__body { padding:20px; }
 .i-modal__title { margin-bottom: 20px; font-size: 20px; color: #333; }
 .i-modal__text { font-size: 16px; color: #333; }
-.i-modal__text a { text-decoration: underline; } */
+.i-modal__text a { text-decoration: underline; } 
 
 /*structure*/
 
-.refs_address_block {
+/* .refs_address_block {
     position: relative;
     height: 48px;
 }
@@ -7258,7 +7258,7 @@ body.light-version {
 }
 .mainaccount_search_input {
     /*position: relative;
-    display: block;*/
+    display: block;
     margin: 0 !important;
     padding: 10px 38px 10px 10px !important;
     border: 0;
@@ -7587,7 +7587,7 @@ body.light-version {
     display: block;
     width: 32px;
     height: 32px;
-    /*margin-top: 9px;*/
+    /*margin-top: 9px;
     padding-top: 9px;
     font-family: arial, sans-serif;
     z-index: 2;
@@ -7684,7 +7684,7 @@ body.light-version {
 .refs_circle_content_smallrefs_block_3 .refs_circle_content_smallref2,
 .refs_circle_content_smallrefs_block_3 .refs_circle_content_smallref3 {
     display: block;
-}
+} */
 , #000000)
 }
 .ico-progress span {
