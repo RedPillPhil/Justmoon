@@ -229,8 +229,8 @@
                                     <div class="text-center">
                                         <a v-if="user.airdropcycle < contract.airdropcycle" href="#" @click.prevent="airdrop()" class="button mt-30">{{ $t('message.purchase7') }}</a>
                                     </div>
-                                    <!-- <div class="text-center">
-                                        <a v-if="user.purchases > 0" :href="location.origin + '#ref=' + tron.account" target="_blank" @click.prevent="copyText(location.origin + '#ref=' + tron.account)" class="button mt-30">{{ $t('message.purchase8') }}</a> -->
+                                   /* <div class="text-center">
+                                        <a v-if="user.purchases > 0" :href="location.origin + '#ref=' + tron.account" target="_blank" @click.prevent="copyText(location.origin + '#ref=' + tron.account)" class="button mt-30">{{ $t('message.purchase8') }}</a> */
                                     </div>
                                 </div>
 
@@ -356,14 +356,14 @@
         <div class="i-modal__wrap">
             <div class="i-modal__close" @click="mapmodal.show = false"></div>
             <div class="i-modal__body">
-               <!-- <div class="i-modal__title">{{ $t('message.structure3') }}</div> -->
+                <div class="i-modal__title">{{ $t('message.structure3') }}</div>
                 <div class="i-modal__text">
                     <div class="tree">
                         <ul class="tree">
                             <li class :id="'li_l_'+tron.account">
 								<span class="mainaccount_block">
-									<!--<a @click.prevent="showReferrals(tron.account)" class="refs_mainaddress_a">{{ safe(tron.account) }}</a>
-									<span class="mainaccount_search_block"> -->
+									<a @click.prevent="showReferrals(tron.account)" class="refs_mainaddress_a">{{ safe(tron.account) }}</a>
+									<span class="mainaccount_search_block">
 										<form onsubmit="return findAccountL()" style="display: flex;">
 											<input type="text" id="account_for_s_l" name="account_for_s" class="mainaccount_search_input" :placeholder="$t('message.inserttronaddress')">
 											<button class="mainaccount_search_button">
@@ -373,7 +373,7 @@
 											</button>
 										</form>
 									</span>
-									<!-- <span class="mainaccount_search_descr">{{ $t('message.structure6') }}</span> -->
+									<span class="mainaccount_search_descr">{{ $t('message.structure6') }}</span>
 								</span>
                                 <ul :id="'ul_l_'+tron.account" class="mainul"></ul>
                             </li>
