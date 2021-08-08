@@ -335,7 +335,7 @@
             $('.simple_timer').syotimer({
                 year: 2021,
                 month: 8,
-                day: 15,
+                day: 8,
                 hour: 0,
                 minute: 0
             })
