@@ -52,7 +52,7 @@ const messages = {
             footer6: 'Affiliate',
             footer7: 'PRIVACY & TOS',
             footer8: 'Terms and Condition',
-            footer9: 'Privacy Policy',
+            footer9: '',
             footer10: 'Contact Us',
         }
     },
