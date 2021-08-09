@@ -27,7 +27,7 @@ const messages = {
             roadmap7: '<h3>🔹List in Bainance</h3><span class="date">After selling 220,000,000 tokens</span><p>+ huobi distribution of 3,000,000  tokens to all token buyers</p>',
             roadmap8: '<h3>🔹Release of 2 online games for iOS, ANDROID in collaboration with supercell</h3><span class="date">After selling 330,000,000 JMOON tokens</span><p>30% of the proceeds of these 2 games will be distributed to user who have purchased more than 50,000 tokens<br>+ Distribution of 3,000,000 tokens among all token buyers</p>',
             faq1: 'Frequently Asked Questions',
-            faq2: 'Information related to Justmoon, and the JMOON token sale',
+            faq2: 'The sale hardcap is 500 trillion tokens sold. That is the max amount that is in the sale contract, and the sale will end at that point. The softcap is 15 trillion tokens sold by 12/31/21 23:59. At that point ANY UNSOLD JMOON WILL BE BURNED. If the soft cap is not reached, investors TRX will be returned',
             faq3: '♦️What is Justmoon?',
             faq4: '<p>Justmoon is a community-driven, fair launched DeFi Token. Justmoon relies on a system of automatic LP generation, and RFI static rewards. Justmoon will also have utility within the NFT space, by creating an NFT Marketplace and NFT launcher where users can create their nfts and earn JMOON in royalty fees on every future trade. Justmoon will be a unique and key part of the Tron ecosystem.</p>',
             faq5: '♦️What is a token sale, and what is a smart contract?',
