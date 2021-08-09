@@ -36,7 +36,7 @@ const messages = {
             faq8: '<p>Justmoon will launch an NFT Marketplace where users can buy, and sell Tron ecosystem NFTs. The Launcher smart contract will allow users to deploy NFTs on the Tron blockchain that will require JMOON token to be used as a royalty payment to the original artist when trading</p>',
             faq9: '♦️How to participate in JMOON ico?',
             faq10: '<p>Step 1: Connect to the site using Tron wallet, Tronlink , Klever wallet <br>Step2: buy JMOON token ( Minimum 100M JMOON (100 TRX) )<br>Step3: Come back to claim your airdrop. When 100 trillion tokens have been sold, all who participated will be eligible to split an airdrop of 10 trillion tokens.<br>You can refer your friends and earn in 9 referral level commission.</p><p>For sale:<br>500,000,000,000,000 tokens ( 200 trillion tokens will be placed in LOCKED liquidity on Justswap after the presale. Another 200 trillion tokens will be reserved for staking pools. The rest will be reserved for project development and marketing. )</p><p>🔸 Token price: 0.000001 trx + 0.28% every day<br>( For example, The price of each token on the first day is 0.000001 trx and on the second day, the price of each token will be 0.000001 trx + 0.28% ) <p>⚪️ OPEN-SOURCE CONTRACT<br>⚪️ NO DEPENDENCE ON BALANCE</p>',
-            purchase1: 'TOKEN SALE STARTS IN',
+            purchase1: 'TOKEN SALE ENDS IN',
             purchase2: 'JMOON price <br> (daily increase of 0.28%)',
             purchase3: 'Min purchase',
             purchase4: 'Token Hardcap',
